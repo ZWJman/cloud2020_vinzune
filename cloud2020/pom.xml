@@ -19,6 +19,11 @@
         <module>cloud-provider-payment8006</module>
         <module>cloud-consumerConsul-order80</module>
         <module>cloud-consumer-feign-order80</module>
+        <module>cloud- provider-hytrix-paymeng8001</module>
+        <module>cloud-consdumer-feign-hystrix-order80</module>
+        <module>cloud-consumer-hystrix-dashbord9001</module>
+        <module>cloud-gateway-gateway9527</module>
+        <module>cloud-config-center-3344</module>
     </modules>
     <packaging>pom</packaging>
 
