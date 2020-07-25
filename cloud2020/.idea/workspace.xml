@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a299c860-da77-44af-beef-166872731f78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud- provider-hytrix-paymeng8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud- provider-hytrix-paymeng8001/src/main/java/com/vinzune/springcloud/PaymentHystrixMain8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud- provider-hytrix-paymeng8001/src/main/java/com/vinzune/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud- provider-hytrix-paymeng8001/src/main/java/com/vinzune/springcloud/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud- provider-hytrix-paymeng8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consdumer-feign-hystrix-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consdumer-feign-hystrix-order80/src/main/java/com/vinzune/springcloud/OrderHystrixMain80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consdumer-feign-hystrix-order80/src/main/java/com/vinzune/springcloud/controller/OrderHystrixController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consdumer-feign-hystrix-order80/src/main/java/com/vinzune/springcloud/service/PaymentHystrixService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consdumer-feign-hystrix-order80/src/main/java/com/vinzune/springcloud/service/PaymentHystrixServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consdumer-feign-hystrix-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashbord9001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashbord9001/src/main/java/com/vinzune/springcloud/HystrixDashBord9001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashbord9001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/vinzune/springcloud/GateWay9527.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/vinzune/springcloud/config/GatewayConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/vinzune/springcloud/filter/MyLogFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f2LfhXTV1HMZqf3sctGErkNjCI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/vinzune/springcloud" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\2020selfcode\cloud_vinzune\cloud2020\cloud-consumer-order80\src\main\java\com\vinzune\springcloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GateWay9527">
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinzune.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vinzune.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWay9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-gateway-gateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinzune.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vinzune.springcloud.GateWay9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinzune.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vinzune.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinzune.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vinzune.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinzune.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vinzune.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.PaymentMain8002" />
+      <item itemvalue="Spring Boot.OrderMain80" />
+      <item itemvalue="Spring Boot.GateWay9527" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GateWay9527" />
+        <item itemvalue="Spring Boot.OrderMain80" />
+        <item itemvalue="Spring Boot.PaymentMain8002" />
+        <item itemvalue="Spring Boot.PaymentMain8001" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a299c860-da77-44af-beef-166872731f78" name="Default Changelist" comment="" />
+      <created>1595411345458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595411345458</updated>
+      <workItem from="1595411348808" duration="914000" />
+      <workItem from="1595470763268" duration="6643000" />
+      <workItem from="1595481273702" duration="28196000" />
+      <workItem from="1595587364131" duration="659000" />
+      <workItem from="1595656066046" duration="1326000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加了feign">
+      <created>1595490779688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595490779688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:G:/2020selfcode/cloud_vinzune/cloud2020" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="添加了feign" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了feign" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="94" key="#Project_Structure" timestamp="1595576045782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1595576045782" />
+    <state x="414" y="174" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595488285712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595488285712" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1595578120848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595578120848" />
+    <state x="996" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595473605523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="996" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595473605523" />
+    <state x="821" y="89" key="CommitChangelistDialog2" timestamp="1595490777131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="821" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595490777131" />
+    <state width="444" height="466" key="DebuggerActiveHint" timestamp="1595482815263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="444" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1595482815263" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1595411471974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595411471974" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1595411532183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595411532183" />
+    <state width="1404" height="276" key="GridCell.Tab.0.bottom" timestamp="1595577809405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1404" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595577809405" />
+    <state width="1404" height="276" key="GridCell.Tab.0.center" timestamp="1595577809404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1404" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595577809404" />
+    <state width="1404" height="276" key="GridCell.Tab.0.left" timestamp="1595577809404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1404" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595577809404" />
+    <state width="1404" height="276" key="GridCell.Tab.0.right" timestamp="1595577809404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1404" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595577809404" />
+    <state width="1404" height="276" key="GridCell.Tab.1.bottom" timestamp="1595577809405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1404" height="276" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595577809405" />
+    <state width="1404" height="276" key="GridCell.Tab.1.center" timestamp="1595577809405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1404" height="276" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595577809405" />
+    <state width="1404" height="276" key="GridCell.Tab.1.left" timestamp="1595577809405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1404" height="276" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595577809405" />
+    <state width="1404" height="276" key="GridCell.Tab.1.right" timestamp="1595577809405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1404" height="276" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595577809405" />
+    <state width="1293" height="276" key="GridCell.Tab.2.bottom" timestamp="1595560863082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="276" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595560863082" />
+    <state width="1293" height="276" key="GridCell.Tab.2.center" timestamp="1595560863082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="276" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595560863082" />
+    <state width="1293" height="276" key="GridCell.Tab.2.left" timestamp="1595560863081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="276" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595560863081" />
+    <state width="1293" height="276" key="GridCell.Tab.2.right" timestamp="1595560863082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="276" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595560863082" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1595411515085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595411515085" />
+    <state x="735" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1595411554164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="253" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595411554164" />
+    <state x="1141" y="252" width="650" height="536" key="find.popup" timestamp="1595560149166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1141" y="252" width="650" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595560149166" />
+    <state x="724" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595494955495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595494955495" />
+    <state x="494" y="120" key="new project wizard" timestamp="1595656270190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="494" y="120" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595656270190" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595560065038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595560065038" />
+  </component>
+</project>
